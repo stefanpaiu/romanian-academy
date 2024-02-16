@@ -1,0 +1,9 @@
+.bottom {
+  position: fixed;
+  bottom: 0px;
+  text-align: center;
+  width: 100%;
+  background-color: #000000;
+  color: #ffffff;
+  padding: 16px 0px 16px 0px;
+}

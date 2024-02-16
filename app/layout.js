@@ -17,15 +17,7 @@ export const metadata = {
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
-      <body
-        className={`${poppins.className} text-xl text-gray-800 md:text-3xl md:leading-normal`}
-      >
-        <Image
-          fill
-          src="landing-background.svg"
-          className="background"
-          alt="Screenshot of the dashboard project showing mobile version"
-        />
+      <body className={`${poppins.className}`}>
         {children}
         <Footer />
       </body>
