@@ -19,7 +19,7 @@ export default function Home() {
         The Romanian Academy
       </h1>
       <h2 className="text-lg md:text-xl py-4 text-ro-orange text-center">
-        We’re cooking something nice for you ...
+        We’re cooking something nice for you...
       </h2>
       <div className="container mx-auto flex flex-col md:flex-row pl-0 md:pl-16 px-8 md:py-8 text-white">
         <div className="flex-1 px-2 py-4">
@@ -34,7 +34,7 @@ export default function Home() {
               As a second language.
             </h2>
             <h3 className="text-sm md:text-md sm:md text-ro-blue pt-4">
-              [No Green Owls. No A.I. Generated Podcasts]
+              [No Green Owls. No A.I. Generated Podcasts.]
             </h3>
             <ul className="pl-12 pt-4">
               <li className="flex text-md md:text-l font-semibold uppercase">
